@@ -14,8 +14,8 @@
 </p>
 
 -------
-- 🔭 Currently working on an awesome medical AI chatbot.
-- 📚 Learning new techniques and methods in data analysis to optimize and enhance performance of our models.
+- 🔭 Currently working on ML projects.
+- 📚 Learning new techniques and methods in machine learning to optimize and enhance performance of our models.
 - 💻 Rocking Python and JavaScript, using cool libraries and frameworks.
 - 👯 Looking to team up on projects involving data analysis and machine learning.
 - 🎮 Anime lover and League of Legends enthusiast. Let's chat about our favorite shows and play some games!
